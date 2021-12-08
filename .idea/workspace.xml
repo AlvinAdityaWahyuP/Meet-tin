@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c5f6a8d7-8d97-4575-b9bf-c4cc704d2a96" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="21zG24B71CuWuvWONUuuEs0BwiM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c5f6a8d7-8d97-4575-b9bf-c4cc704d2a96" name="Default Changelist" comment="" />
+      <created>1638936291970</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638936291970</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1638936996983">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1638936996983" />
+    <state x="-48" y="93" width="1350" height="648" key="AVDManager" timestamp="1638938604908">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="-48" y="93" width="1350" height="648" key="AVDManager/0.0.1536.834@0.0.1536.834" timestamp="1638938604908" />
+    <state x="586" y="164" key="AndroidProcessChooserDialog" timestamp="1638939154596">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="586" y="164" key="AndroidProcessChooserDialog/0.0.1536.834@0.0.1536.834" timestamp="1638939154596" />
+    <state x="549" y="159" key="FileChooserDialogImpl" timestamp="1638938587654">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="549" y="159" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1638938587654" />
+    <state x="425" y="189" key="run.anything.popup" timestamp="1638936873264">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="425" y="189" key="run.anything.popup/0.0.1536.834@0.0.1536.834" timestamp="1638936873264" />
+    <state x="215" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1638938700793">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="215" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1638938700793" />
+  </component>
+</project>

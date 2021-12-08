@@ -1,0 +1,7 @@
+{
+  "name": "meettin-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
